@@ -1,5 +1,5 @@
 {
-	"name": "frontend",
+	"name": "bazario-frontend",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
@@ -41,15 +41,15 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Team-Challenge-Marketplace-Bazario/frontend.git"
+		"url": "git+https://github.com/TymQa/bazario-frontend/bazario-frontend.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/Team-Challenge-Marketplace-Bazario/frontend/issues"
+		"url": "https://github.com/TymQa/bazario-frontend/issues"
 	},
-	"homepage": "/Team-Challenge-Marketplace-Bazario/frontend",
+	"homepage": "https://github.com/TymQa/bazario-frontend",
 	"devDependencies": {
 		"@babel/plugin-proposal-private-property-in-object": "^7.21.11"
 	}
